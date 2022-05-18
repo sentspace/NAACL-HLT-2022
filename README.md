@@ -10,3 +10,25 @@ yielding a total of n=52 human-generated paragraphs and n=260 GPT2-XL-generated 
 The directory `in/` contains the input files used for analyses. These contain two CSV files, one called `CR_gpt-generated.csv` (written by GPT2-XL), and the other, `gpt2stories_sents_target1.csv` (written by humans).
 
 The directory `out/` consists of SentSpace-produced output that is used in the notebook in this repository.
+
+Citation:
+```bibtex
+@inproceedings{tuckute-sathe-etal-2022-sentspace,
+    title = "SentSpace: Large-Scale Benchmarking and Evaluation of Text using Cognitively Motivated Lexical, Syntactic, and Semantic Features",
+    author = "Tuckute*, Greta  and
+              Sathe*, Aalok  and
+              Wang, Mingye  and
+              Yoder, Harley  and
+              Shain, Cory  and
+              Fedorenko, Evelina",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations",
+    month = jul,
+    year = "2022",
+    address = "Seattle, WA, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "TBD",
+    doi = "TBD",
+    pages = "TBD",
+    abstract = " ",
+}
+```
