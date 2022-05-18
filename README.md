@@ -22,7 +22,7 @@ Citation:
               Shain, Cory  and
               Fedorenko, Evelina",
     booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies: Demonstrations",
-    month = jul,
+    month = "jul",
     year = "2022",
     address = "Seattle, WA, USA",
     publisher = "Association for Computational Linguistics",
