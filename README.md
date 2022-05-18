@@ -11,4 +11,4 @@ The directory `in/` contains the input files used for analyses. These contain tw
 
 The directory `out/` consists of SentSpace-produced output that is used in the notebook in this repository.
 
-Citation: If you use this software, please cite! [CITATION.bib](./CITATION.bib)
+If you use this software, please cite: [CITATION.bib](./CITATION.bib).
