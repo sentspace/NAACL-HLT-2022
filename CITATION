@@ -11,8 +11,8 @@
     year = "2022",
     address = "Seattle, WA, USA",
     publisher = "Association for Computational Linguistics",
-    url = "TBD",
+    url = "https://aclanthology.org/2022.naacl-demo.11",
     doi = "TBD",
-    pages = "TBD",
+    pages = "99–113",
     abstract = " ",
 }
